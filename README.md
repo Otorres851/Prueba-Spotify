@@ -4,5 +4,5 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 # App-Spotify
 
-Page: [App-Spotify](https://app-spotify-bex.surge.sh/). 
+This is the page of the project [App-Spotify](https://app-spotify-bex.surge.sh/). 
 
